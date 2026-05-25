@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large data stores and generated outputs
+*.zarr/
+data/
+outputs/
+event_exports/
+benchmark_outputs/
+Figures/
+*_reports/
+*.html
+*.csv
+
+# Local environment files
+.venv/
+.env
+Gaemi_event_inventory_2024_ardswc_v7.geojson
